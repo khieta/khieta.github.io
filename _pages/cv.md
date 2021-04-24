@@ -34,9 +34,11 @@ I have been fortunate enough to have internships at a variety of places.
   {% endfor %}</ul>
   
 ## Drafts
-* **Proving Quantum Programs Correct** [[pdf](../files/pqpc-extended.pdf)]  
-  Kesha Hietala, Robert Rand, Shih-Han Hung, Liyi Li, Michael Hicks  
-  In submission.
+* Two talk abstracts submitted to PLanQC 2021:
+  * **Applying and Expanding the VOQC Toolkit** [[pdf](../files/voqc-planqc-2021.pdf)]  
+    Kesha Hietala, Liyi Li, Akshaj Gaur, Aaron Green, Robert Rand, Xiaodi Wu, Michael Hicks
+  * **Toward a Type-Theoretic Interpretation of Q#** [[pdf](../files/lambda-qsharp-planqc.pdf)]  
+    Kartik Singhal, Sarah Marshall, Kesha Hietala, Robert Rand
 * **Quantum Programming Languages** [[pdf](../files/quantum-pl-survey.pdf)]  
   Kesha Hietala  
   Writeup for a class project, December 2016. Written for readers with a basic understanding of quantum computation and no background in programming languages.
