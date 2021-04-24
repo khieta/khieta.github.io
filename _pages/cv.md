@@ -13,7 +13,7 @@ redirect_from:
 * Ph.D in Computer Science, University of Maryland, expected 2022
   * Thesis topic: *A Verified Software Toolchain for Quantum Programming*
   * Advisor: Michael Hicks
-  * Committee members: Andrew Childs, Robert Rand, Xioadi Wu
+  * Committee members: Andrew Childs, Leonidas Lampropoulos, Robert Rand, Xioadi Wu
 * M.S. in Computer Science, University of Maryland, 2019
 * B.S. in Computer Science, University of Minnesota, *Summa cum laude*, 2016
   * Minors in Mathemathics and Asian Languages and Literatures (Japanese)
