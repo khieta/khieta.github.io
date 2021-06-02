@@ -22,7 +22,7 @@ supervised by Stephen McCamant
 
 ## Work experience
 I have been fortunate enough to have internships at a variety of places. 
-* Microsoft Research, Winter 2020
+* Microsoft Research, Winter 2020 & Summer 2021
 * Institute for Defense Analyses, Center for Computing Sciences, Summer 2017
 * National Security Agency, Summers 2015 & 2016
 * MIT Lincoln Laboratory, Summer 2014
@@ -34,11 +34,6 @@ I have been fortunate enough to have internships at a variety of places.
   {% endfor %}</ul>
   
 ## Drafts
-* Two talk abstracts submitted to PLanQC 2021:
-  * **Applying and Expanding the VOQC Toolkit** [[pdf](../files/voqc-planqc-2021.pdf)]  
-    Kesha Hietala, Liyi Li, Akshaj Gaur, Aaron Green, Robert Rand, Xiaodi Wu, Michael Hicks
-  * **Toward a Type-Theoretic Interpretation of Q#** [[pdf](../files/lambda-qsharp-planqc.pdf)]  
-    Kartik Singhal, Sarah Marshall, Kesha Hietala, Robert Rand
 * **Quantum Programming Languages** [[pdf](../files/quantum-pl-survey.pdf)]  
   Kesha Hietala  
   Writeup for a class project, December 2016. Written for readers with a basic understanding of quantum computation and no background in programming languages.
@@ -47,6 +42,12 @@ I have been fortunate enough to have internships at a variety of places.
   Undergraduate Thesis, May 2016.
   
 ## Posters and presentations
+* **Expanding the VOQC Toolkit** [[abstract](../files/voqc-planqc-2021.pdf)), [slides](../files/VOQC-PLanQC-2021-slides.pdf)]
+  Kesha Hietala, Liyi Li, Akshaj Gaur, Aaron Green, Robert Rand, Xiaodi Wu, Michael Hicks
+  To appear at PLanQC 2021.
+* **Toward a Type-Theoretic Interpretation of Q#** [[abstract](../files/lambda-qsharp-planqc.pdf)]  
+  Kartik Singhal, Sarah Marshall, Kesha Hietala, Robert Rand
+  To appear at PLanQC 2021, slides presented by Kartik Singhal.
 * **A Verified Optimizer for Quantum Circuits** [[slides](../files/voqc-popl-slides.pdf), [video](https://app.clowdr.org/conference/popl2021/item/f2ed20e6-65a3-4b1e-bc2e-4241a3452269)]  
   Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
   Presented at POPL 2021.  
@@ -79,5 +80,5 @@ Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
 * Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
 * Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 and 2019
 * Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018
-* Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021
+* Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPLSA 2021
 
