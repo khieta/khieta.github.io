@@ -42,12 +42,12 @@ I have been fortunate enough to have internships at a variety of places.
   Undergraduate Thesis, May 2016.
   
 ## Posters and presentations
-* **Expanding the VOQC Toolkit** [[abstract](../files/voqc-planqc-2021.pdf)), [slides](../files/VOQC-PLanQC-2021-slides.pdf)]
-  Kesha Hietala, Liyi Li, Akshaj Gaur, Aaron Green, Robert Rand, Xiaodi Wu, Michael Hicks
+* **Expanding the VOQC Toolkit** [[abstract](../files/voqc-planqc-2021.pdf), [slides](../files/VOQC-PLanQC-2021-slides.pdf)]  
+  Kesha Hietala, Liyi Li, Akshaj Gaur, Aaron Green, Robert Rand, Xiaodi Wu, Michael Hicks  
   To appear at PLanQC 2021.
 * **Toward a Type-Theoretic Interpretation of Q#** [[abstract](../files/lambda-qsharp-planqc.pdf)]  
-  Kartik Singhal, Sarah Marshall, Kesha Hietala, Robert Rand
-  To appear at PLanQC 2021, slides presented by Kartik Singhal.
+  Kartik Singhal, Sarah Marshall, Kesha Hietala, Robert Rand  
+  To appear at PLanQC 2021, slides to be presented by Kartik Singhal.
 * **A Verified Optimizer for Quantum Circuits** [[slides](../files/voqc-popl-slides.pdf), [video](https://app.clowdr.org/conference/popl2021/item/f2ed20e6-65a3-4b1e-bc2e-4241a3452269)]  
   Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
   Presented at POPL 2021.  
