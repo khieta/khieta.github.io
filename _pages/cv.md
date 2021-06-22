@@ -17,8 +17,7 @@ redirect_from:
 * M.S. in Computer Science, University of Maryland, 2019
 * B.S. in Computer Science, University of Minnesota, *Summa cum laude*, 2016
   * Minors in Mathemathics and Asian Languages and Literatures (Japanese)
-  * Undergraduate thesis: *Detecting Behaviorally-Equivalent Functions via Symbolic Execution*,  
-supervised by Stephen McCamant
+  * Undergraduate thesis: *Detecting Behaviorally-Equivalent Functions via Symbolic Execution*, supervised by Stephen McCamant
 
 ## Work experience
 I have been fortunate enough to have internships at a variety of places. 
@@ -78,7 +77,7 @@ Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
 * Reviewer for TQC 2020
 * Student volunteer at POPL 2020
 * Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
-* Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 and 2019
-* Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018
+* Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 & 2019
+* Volunteer/content reviewer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPLSA 2021
 
