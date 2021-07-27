@@ -80,7 +80,7 @@ Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
 * Reviewer for TQC 2020
 * Student volunteer at POPL 2020
 * Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
+* Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 & 2019
-* Volunteer/content reviewer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPLSA 2021
 
