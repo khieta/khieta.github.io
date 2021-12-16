@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version available [here](../files/Kesha-Hietala-CV-12-2021.pdf).
+
 ## Education
 * Ph.D in Computer Science, University of Maryland, expected 2022
   * Thesis topic: *A Verified Software Toolchain for Quantum Programming*
@@ -33,6 +35,9 @@ I have been fortunate enough to have internships at a variety of places.
   {% endfor %}</ul>
   
 ## Drafts
+* **Verified Compilation of Quantum Oracles** [[pdf](https://arxiv.org/pdf/2112.06700.pdf)]  
+  Liyi Li, Finnegan Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks  
+  In submission.
 * **Quantum Programming Languages** [[pdf](../files/quantum-pl-survey.pdf)]  
   Kesha Hietala  
   Writeup for a class project, December 2016. Written for readers with a basic understanding of quantum computation and no background in programming languages.
@@ -41,6 +46,9 @@ I have been fortunate enough to have internships at a variety of places.
   Undergraduate Thesis, May 2016.
   
 ## Posters and presentations
+* **Quantum IRs for Formal Verification** [[slides](../files/QCE21-workshop-slides.pdf)]  
+  Kesha Hietala  
+  Presented at the [QCE21 Workshop on Quantum Intermediate Representations](https://unitaryfund.github.io/quantum-intermediate-rep-workshop/).
 * **Proving Quantum Programs Correct** [[slides](../files/SQIR-ITP-2021.pdf)]  
   Kesha Hietala, Robert Rand, Shih-Han Hung, Liyi Li, Michael Hicks  
   Presented at ITP 2021.  
@@ -77,10 +85,10 @@ Teaching Assistant, University of Maryland, Fall 2017 & Spring 2018
 Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
 
 ## Service
+* Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Reviewer for TQC 2020
 * Student volunteer at POPL 2020
 * Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
-* Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 & 2019
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPLSA 2021
 
