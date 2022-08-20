@@ -9,21 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version available [here](../files/Kesha-Hietala-CV-12-2021.pdf).
-
 ## Education
-* Ph.D in Computer Science, University of Maryland, expected 2022
-  * Thesis topic: *A Verified Software Toolchain for Quantum Programming*
-  * Advisor: Michael Hicks
-  * Committee members: Andrew Childs, Leonidas Lampropoulos, Robert Rand, Xioadi Wu
+* Ph.D in Computer Science, University of Maryland, 2022
+  * Dissertation: *A Verified Software Toolchain for Quantum Programming* <a href="../files/drafts/khieta-dissertation.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  * Advised by Michael Hicks
 * M.S. in Computer Science, University of Maryland, 2019
 * B.S. in Computer Science, University of Minnesota, *Summa cum laude*, 2016
-  * Minors in Mathemathics and Asian Languages and Literatures (Japanese)
-  * Undergraduate thesis: *Detecting Behaviorally-Equivalent Functions via Symbolic Execution*, supervised by Stephen McCamant
+  * Minors in Mathematics and Asian Languages and Literatures (Japanese)
 
-## Work experience
-I have been fortunate enough to have internships at a variety of places. 
-* Microsoft Research, Winter 2020 & Summer 2021
+##  Work experience
+I joined Amazon AWS full time in July 2022. 
+
+During my time as a student, I was fortunate enough to have several internships:
+* Microsoft Quantum, Summer 2021
+* Microsoft Research, Winter 2020
 * Institute for Defense Analyses, Center for Computing Sciences, Summer 2017
 * National Security Agency, Summers 2015 & 2016
 * MIT Lincoln Laboratory, Summer 2014
@@ -35,60 +34,47 @@ I have been fortunate enough to have internships at a variety of places.
   {% endfor %}</ul>
   
 ## Drafts
-* **Verified Compilation of Quantum Oracles** [[pdf](https://arxiv.org/pdf/2112.06700.pdf)]  
-  Liyi Li, Finnegan Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks  
+* **A Formally Certified End-to-End Implementation of Shor's Factorization Algorithm** <a href="https://arxiv.org/abs/2204.07112"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  
+  Yuxiang Peng, Kesha Hietala, Runzhou Tao, Liyi Li, Robert Rand, Michael Hicks, Xiaodi Wu  
   In submission.
-* **Quantum Programming Languages** [[pdf](../files/quantum-pl-survey.pdf)]  
+* **A Verified Optimizer for Quantum Circuits** <a href="../files/drafts/voqc-journal-draft.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
+  Kesha Hietala, Robert Rand, Liyi Li, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
+  Journal version of our POPL 2021 paper. In submission.
+* **Quantum Programming Languages** <a href="../files/drafts/quantum-pl-survey.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala  
   Writeup for a class project, December 2016. Written for readers with a basic understanding of quantum computation and no background in programming languages.
-* **Detecting Behaviorally-Equivalent Functions via Symbolic Execution** [[pdf](../files/KHH-undergrad-thesis.pdf)]  
+* **Detecting Behaviorally-Equivalent Functions via Symbolic Execution** <a href="../files/drafts/khieta-undergrad-thesis.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala  
-  Undergraduate Thesis, May 2016.
+  Undergraduate thesis, May 2016. Supervised by Stephen McCamant.
   
-## Posters and presentations
-* **Quantum IRs for Formal Verification** [[slides](../files/QCE21-workshop-slides.pdf)]  
-  Kesha Hietala  
-  Presented at the [QCE21 Workshop on Quantum Intermediate Representations](https://unitaryfund.github.io/quantum-intermediate-rep-workshop/).
-* **Proving Quantum Programs Correct** [[slides](../files/SQIR-ITP-2021.pdf)]  
-  Kesha Hietala, Robert Rand, Shih-Han Hung, Liyi Li, Michael Hicks  
-  Presented at ITP 2021.  
-* **Expanding the VOQC Toolkit** [[abstract](../files/voqc-planqc-2021.pdf), [slides](../files/VOQC-PLanQC-2021-slides.pdf)]  
-  Kesha Hietala, Liyi Li, Akshaj Gaur, Aaron Green, Robert Rand, Xiaodi Wu, Michael Hicks  
-  Presented at PLanQC 2021.
-* **Toward a Type-Theoretic Interpretation of Q#** [[abstract](../files/lambda-qsharp-planqc.pdf)]  
-  Kartik Singhal, Sarah Marshall, Kesha Hietala, Robert Rand  
-  Presented by Kartik Singhal at PLanQC 2021.
-* **A Verified Optimizer for Quantum Circuits** [[slides](../files/voqc-popl-slides.pdf), [video](https://app.clowdr.org/conference/popl2021/item/f2ed20e6-65a3-4b1e-bc2e-4241a3452269)]  
+## Talks
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+## Posters
+* **Verified Optimization in a Quantum Intermediate Representation** <a href="../files/sqir-nisq19.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
-  Presented at POPL 2021.  
-  *An earlier version of this work was presented with Kartik Singhal at PLanQC 2020* [[abstract](../files/voqc-planqc-abstract.pdf), [slides](../files/voqc-planqc-slides.pdf)].
-* **Tracking Errors through Types in Quantum Programs** [[abstract](../files/tracking-errors-abstract.pdf)]  
-  Kesha Hietala, Robert Rand, Michael Hicks  
-  Presented by Robert Rand at PLanQC 2020.
-* **Verified Optimization in a Quantum Intermediate Representation** [[poster](../files/NISQ-SQIRE-poster.pdf), [abstract](../files/qpl-2019-abstract.pdf), [slides](../files/qpl-2019-slides.pdf)]  
-  Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
-  Poster presented at NISQ 2019 and extended abstract presented at QPL 2019. For more recent developments, see our work on *A Verified Optimizer for Quantum Circuits*.
-* **Finding Semantically Equivalent Binary Code By Synthesizing Adaptors** [[poster](../files/adaptor-synth-poster.pdf)]  
+  Presented at the Workshop on Noisy Intermediate-Scale Quantum Technologies (NISQ) 2019.
+* **Finding Semantically Equivalent Binary Code By Synthesizing Adaptors** <a href="../files/adaptor-synth-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Vaibhav Sharma, Stephen McCamant  
-  Poster presented at the 2017 Grad Cohort Workshop.
-* **Approaches to Compiling Functional Languages** [[slides](../files/CAM-notes.pdf)]  
+  Presented at the 2017 Grad Cohort Workshop.
+* **A Comparison of Approaches to Compiling Functional Programming Languages** <a href="../files/compiling-functional-languages-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala  
-  Two-part lecture given to a seminar on functional programming, University of Minnesota, May 2016.
-* **A Comparison of Approaches to Compiling Functional Programming Languages** [[poster](../files/compiling-functional-languages-poster.pdf)]  
-  Kesha Hietala  
-  Poster presented at the University of Minnesota Spring 2015 Undergraduate Research Symposium and Winchell Undergraduate Research Symposium, May 2015.
-  
+  Presented at the University of Minnesota Undergraduate Research Symposium and Winchell Undergraduate Research Symposium, May 2015.
+
 ## Teaching
-* **Organization of Programming Languages (CMSC 330)**  
+* **Organization of Programming Languages (UMD CMSC 330)**  
 Teaching Assistant, University of Maryland, Fall 2017 & Spring 2018
-* **Advanced Programming Principles (CSCI 2041)**  
+* **Advanced Programming Principles (UMN CSCI 2041)**  
 Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
 
 ## Service
-* Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
-* Reviewer for TQC 2020
+* PC member for [The Coq Workshop 2022](https://coq-workshop.gitlab.io/2022/) and [PLanQC 2022](https://icfp22.sigplan.org/home/planqc-2022)
+* Volunteer for the quantum track of the [Bitcamp](https://bit.camp/) hackathon, 2022
+* Reviewer for TQC 2020, MFCS 2022
 * Student volunteer at POPL 2020
 * Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
+* Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 & 2019
-* Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPLSA 2021
-
+* Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPSLA 2021

@@ -2,7 +2,7 @@
 
 This is the source for my personal webpage. It's a fork of [academicpages](https://github.com/academicpages/academicpages.github.io). I found [this blog post](https://jayrobwilliams.com/posts/2020/06/academic-website/) useful for getting started. -Kesha
 
-(Old README content below.)
+(Original README content below.)
 
 ---
 

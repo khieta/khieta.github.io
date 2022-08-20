@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kesha Hietala"
 title_separator          : "-"
 name                     : &name "Kesha Hietala"
-description              : &description "PhD student in Computer Science at the University of Maryland"
+description              : &description "Applied Scientist in Automated Reasoning"
 url                      : https://khieta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "khieta/khieta.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Kesha Hietala"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Computer Science at the University of Maryland, College Park"
-  location         : 
-  employer         : "University of Maryland"
-  pubmed           : 
+  bio              : "Applied Scientist in Automated Reasoning"
+  location         :
+  employer         : "Amazon AWS"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=SXWh3IYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -178,6 +178,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -208,6 +212,14 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
