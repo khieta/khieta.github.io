@@ -53,13 +53,13 @@ During my time as a student, I was fortunate enough to have several internships:
   {% endfor %}</ul>
   
 ## Posters
-* **Verified Optimization in a Quantum Intermediate Representation** <a href="../files/sqir-nisq19.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
+* **Verified Optimization in a Quantum Intermediate Representation** <a href="../files/posters/sqir-nisq19.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
   Presented at the Workshop on Noisy Intermediate-Scale Quantum Technologies (NISQ) 2019.
-* **Finding Semantically Equivalent Binary Code By Synthesizing Adaptors** <a href="../files/adaptor-synth-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
+* **Finding Semantically Equivalent Binary Code By Synthesizing Adaptors** <a href="../files/posters/adaptor-synth-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Vaibhav Sharma, Stephen McCamant  
   Presented at the 2017 Grad Cohort Workshop.
-* **A Comparison of Approaches to Compiling Functional Programming Languages** <a href="../files/compiling-functional-languages-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
+* **A Comparison of Approaches to Compiling Functional Programming Languages** <a href="../files/posters/compiling-functional-languages-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala  
   Presented at the University of Minnesota Undergraduate Research Symposium and Winchell Undergraduate Research Symposium, May 2015.
 
