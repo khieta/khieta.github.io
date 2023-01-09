@@ -73,11 +73,13 @@ Teaching Assistant, University of Maryland, Fall 2017 & Spring 2018
 Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
 
 ## Service
+* Member of the AEC+ERC for OOPSLA 2023
+* Project lead for the [Tech+Research](https://inclusion.cs.umd.edu/events/techresearch) track at Technica, 2019 & 2022
 * PC member for [The Coq Workshop 2022](https://coq-workshop.gitlab.io/2022/) and [PLanQC 2022](https://icfp22.sigplan.org/home/planqc-2022)
 * Volunteer for the quantum track of the [Bitcamp](https://bit.camp/) hackathon, 2022
 * Reviewer for TQC 2020, MFCS 2022
 * Student volunteer at POPL 2020
 * Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
 * Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
-* Mentor for [Technica](https://gotechnica.org/) hackathon, 2018 & 2019
+* Mentor for [Technica](https://gotechnica.org/) hackathon, 2018
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPSLA 2021
