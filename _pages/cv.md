@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Computer Science, University of Maryland, 2022
+* Ph.D. in Computer Science, University of Maryland, 2022
   * Dissertation: *A Verified Software Toolchain for Quantum Programming* <a href="../files/drafts/khieta-dissertation.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Advised by Michael Hicks
 * M.S. in Computer Science, University of Maryland, 2019
@@ -66,20 +66,18 @@ During my time as a student, I was fortunate enough to have several internships:
   Kesha Hietala  
   Presented at the University of Minnesota Undergraduate Research Symposium and Winchell Undergraduate Research Symposium, May 2015.
 
-## Teaching
-* **Organization of Programming Languages (UMD CMSC 330)**  
-Teaching Assistant, University of Maryland, Fall 2017 & Spring 2018
-* **Advanced Programming Principles (UMN CSCI 2041)**  
-Teaching Assistant, University of Minnesota, Fall 2014 & Spring 2015
-
-## Service
-* Member of the AEC+ERC for OOPSLA 2023
-* Project lead for the [Tech+Research](https://inclusion.cs.umd.edu/events/techresearch) track at Technica, 2019 & 2022
-* PC member for [The Coq Workshop 2022](https://coq-workshop.gitlab.io/2022/) and [PLanQC 2022](https://icfp22.sigplan.org/home/planqc-2022)
+## Teaching & Mentorship
+* Project lead for the [Tech+Research](https://inclusion.cs.umd.edu/events/techresearch) track at Technica, 2019 & 2022 <a href="https://github.com/khieta/technica-2022"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 * Volunteer for the quantum track of the [Bitcamp](https://bit.camp/) hackathon, 2022
-* Reviewer for TQC 2020, MFCS 2022
-* Student volunteer at POPL 2020
-* Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019
 * Volunteer for [Girls Talk Math](http://gtm.math.umd.edu/) summer camp, 2018 & 2021
 * Mentor for [Technica](https://gotechnica.org/) hackathon, 2018
+* Teaching Assistant for *Organization of Programming Languages (UMD CMSC 330)*, University of Maryland, Fall 2017 & Spring 2018
+* Teaching Assistant for *Advanced Programming Principles (UMN CSCI 2041)*, University of Minnesota, Fall 2014 & Spring 2015
+
+## Academic Service
+* Member of the OOPSLA AEC+ERC 2023
+* PC member for [The Coq Workshop 2022](https://coq-workshop.gitlab.io/2022/) and [PLanQC 2022](https://icfp22.sigplan.org/home/planqc-2022)
+* External reviewer for TQC 2020, MFCS 2022, PLDI 2023
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPSLA 2021
+* Student volunteer at POPL 2020
+* Organizer for UMD’s PL reading group, Fall 2018 & Spring 2019

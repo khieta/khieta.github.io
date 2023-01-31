@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Kesha and I'm an Applied Scientist in the Automated Reasoning in Identity Group at Amazon AWS.
+Hello! My name is Kesha, and I'm an Applied Scientist in the Automated Reasoning in Identity Group at Amazon AWS.
 I'm interested in **compilers**, **program analysis** and **formal verification**.
 I got my PhD in 2022 in [Computer Science at the University of Maryland](https://www.cs.umd.edu/), where I was advised by [Mike Hicks](https://mhicks.me/). 
 I did my undergraduate in [Computer Science at the University of Minnesota](https://cse.umn.edu/cs).
