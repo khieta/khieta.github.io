@@ -5,7 +5,7 @@ type: "Seminar presentation"
 permalink: /talks/cam-talk
 venue: "University of Minnesota"
 date: 2016-05-01
-location: "Minneapolis"
+location: "Minneapolis, MN"
 slidepdf: "../files/slides/cam-notes.pdf"
 ---
 
