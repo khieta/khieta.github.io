@@ -37,9 +37,6 @@ During my time as a student, I was fortunate enough to have several internships:
 * **Q★: Implementing Quantum Separation Logic in F★** <a href="../files/drafts/qstar-planqc22.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Sarah Marshall, Robert Rand, Nikhil Swamy  
   Extended abstract presented by Robert Rand at PLanQC 2022 (slides [here](../files/slides/qstar-planqc22.pdf)). Hopefully this will be expanded to a full paper in the future, but the project is on hold for now.
-* **A Formally Certified End-to-End Implementation of Shor's Factorization Algorithm** <a href="https://arxiv.org/abs/2204.07112"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  
-  Yuxiang Peng, Kesha Hietala, Runzhou Tao, Liyi Li, Robert Rand, Michael Hicks, Xiaodi Wu  
-  In submission.
 * **A Verified Optimizer for Quantum Circuits** <a href="../files/drafts/voqc-journal-draft.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Robert Rand, Liyi Li, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
   Journal version of our POPL 2021 paper. In submission.
