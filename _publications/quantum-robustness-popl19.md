@@ -3,7 +3,7 @@ title: "Quantitative Robustness Analysis of Quantum Programs"
 collection: publications
 permalink: /publications/quantum-robustness-popl19
 excerpt: 
-date: 2019-01-16
+date: 2019-01-02
 venue: 'Proceedings of the ACM Conference on Principles of Programming Languages (POPL)'
 link: 'https://dl.acm.org/doi/10.1145/3290344'
 paperurl: 'https://arxiv.org/pdf/1811.03585.pdf'

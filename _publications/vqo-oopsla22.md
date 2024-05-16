@@ -3,8 +3,9 @@ title: "Verified Compilation of Quantum Oracles"
 collection: publications
 permalink: /publications/vqo-oopsla22
 excerpt: 
-date: 2022-12-05
+date: 2022-10-31
 venue: 'Proceedings of the ACM on Programming Languages (OOPSLA)'
+link: 'https://dl.acm.org/doi/abs/10.1145/3563309'
 paperurl: 'https://arxiv.org/pdf/2112.06700.pdf'
 github: 'https://github.com/inQWIRE/VQO'
 citation: 'Liyi Li, Finn Voichick, <b>Kesha Hietala</b>, Yuxiang Peng, Xiaodi Wu, Michael Hicks. &quot;Verified Compilation of Quantum Oracles.&quot; <i>Proceedings of the ACM on Programming Languages (OOPSLA)</i>. 2022.'

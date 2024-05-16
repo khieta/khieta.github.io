@@ -18,7 +18,7 @@ redirect_from:
   * Minors in Mathematics and Asian Languages and Literatures (Japanese)
 
 ##  Work experience
-I joined Amazon AWS full time in July 2022. 
+I joined AWS full time in July 2022.
 
 During my time as a student, I was fortunate enough to have several internships:
 * Microsoft Quantum, Summer 2021
@@ -37,9 +37,6 @@ During my time as a student, I was fortunate enough to have several internships:
 * **Q★: Implementing Quantum Separation Logic in F★** <a href="../files/drafts/qstar-planqc22.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala, Sarah Marshall, Robert Rand, Nikhil Swamy  
   Extended abstract presented by Robert Rand at PLanQC 2022 (slides [here](../files/slides/qstar-planqc22.pdf)). Hopefully this will be expanded to a full paper in the future, but the project is on hold for now.
-* **A Verified Optimizer for Quantum Circuits** <a href="../files/drafts/voqc-journal-draft.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
-  Kesha Hietala, Robert Rand, Liyi Li, Shih-Han Hung, Xiaodi Wu, Michael Hicks  
-  Journal version of our POPL 2021 paper. In submission.
 * **Quantum Programming Languages** <a href="../files/drafts/quantum-pl-survey.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  
   Kesha Hietala  
   Writeup for a class project, December 2016. Written for readers with a basic understanding of quantum computation and no background in programming languages.
@@ -72,8 +69,8 @@ During my time as a student, I was fortunate enough to have several internships:
 * Teaching Assistant for *Advanced Programming Principles (UMN CSCI 2041)*, University of Minnesota, Fall 2014 & Spring 2015
 
 ## Academic Service
-* Member of the OOPSLA AEC+ERC 2023
-* PC member for [The Coq Workshop 2022](https://coq-workshop.gitlab.io/2022/) and [PLanQC 2022](https://icfp22.sigplan.org/home/planqc-2022)
+* PC member for Coq Workshop 2022, PLanQC 2022 & 2024, CPP 2024, ICFP 2024
+* AEC member & external reviewer for OOPSLA 2024 & 2024
 * External reviewer for TQC 2020, MFCS 2022, PLDI 2023
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPSLA 2021
 * Student volunteer at POPL 2020

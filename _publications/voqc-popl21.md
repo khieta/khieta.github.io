@@ -3,7 +3,7 @@ title: "A Verified Optimizer for Quantum Circuits"
 collection: publications
 permalink: /publications/voqc-popl21
 excerpt: 
-date: 2021-01-20
+date: 2021-01-04
 venue: 'Proceedings of the ACM Conference on Principles of Programming Languages (POPL)'
 link: 'https://dl.acm.org/doi/10.1145/3434318'
 paperurl: 'https://arxiv.org/pdf/1912.02250.pdf'
