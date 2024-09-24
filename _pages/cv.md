@@ -18,7 +18,7 @@ redirect_from:
   * Minors in Mathematics and Asian Languages and Literatures (Japanese)
 
 ##  Work experience
-I joined AWS full time in July 2022.
+I worked at Amazon (AWS) July 2022 - September 2024.
 
 During my time as a student, I was fortunate enough to have several internships:
 * Microsoft Quantum, Summer 2021
@@ -70,7 +70,7 @@ During my time as a student, I was fortunate enough to have several internships:
 
 ## Academic Service
 * PC member for Coq Workshop 2022, PLanQC 2022 & 2024, CPP 2024, ICFP 2024
-* AEC member & external reviewer for OOPSLA 2024 & 2024
+* AEC member & external reviewer for OOPSLA 2023 & 2024
 * External reviewer for TQC 2020, MFCS 2022, PLDI 2023
 * Sub-reviewer for CCS 2017, Oakland S&P 2017, RC 2019, PLDI 2020, QCTIP 2020, PLDI 2021, OOPSLA 2021
 * Student volunteer at POPL 2020
